@@ -1,6 +1,10 @@
 flashrom README
 ===============
 
+Dreg's fork windows build: - https://github.com/therealdreg/flashrom_build_windows_x64
+
+------------
+
 flashrom is a utility for detecting, reading, writing, verifying and erasing
 flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images
 in-system using a supported mainboard, but it also supports flashing of network
@@ -57,3 +61,10 @@ The official flashrom website is:
   https://www.flashrom.org/
 
 For available contact methods see :doc:`contact`
+
+
+Related
+-------
+- https://github.com/therealdreg/flashrom_build_windows_x64
+- https://github.com/therealdreg/asprogrammer-dregmod
+- https://github.com/therealdreg/buzzpirat
