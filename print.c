@@ -559,6 +559,7 @@ static void print_sysinfo(void)
 #else
 	msg_ginfo(" on unknown machine");
 #endif
+	msg_ginfo(" Dreg's mod https://www.rootkit.es v3.5");
 }
 
 void print_buildinfo(void)
